@@ -1,0 +1,13 @@
+texlive
+texlive-xetex
+texlive-generic-extra
+texlive-latex-base
+texlive-latex-recommended
+texlive-science
+texlive-latex-extra
+texlive-fonts-recommended
+texlive-lang-german
+lmodern
+dvipng
+ghostscript
+nano
