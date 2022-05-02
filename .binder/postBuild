@@ -1,0 +1,4 @@
+jupyter labextension install @jupyterlab/latex
+jupyter lab build
+mkdir ${HOME}/.jupyter
+echo "c.LatexConfig.latex_command = 'pdflatex'" >> ${HOME}/.jupyter/jupyter_notebook_config.py

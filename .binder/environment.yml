@@ -1,0 +1,15 @@
+name: Python-course-BCGS-2022
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+  - scipy
+  - sympy
+  - colorama
+  - pip
+  - pip:
+    - jupyterlab_latex
