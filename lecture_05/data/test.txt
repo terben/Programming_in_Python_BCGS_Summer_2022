@@ -1,0 +1,7 @@
+Introduction to Python for Physicists (Thomas Erben)
+====================================================
+
+The goal of my lectures it to teach physik-students on the master and
+PhD level how to efficiently and flexibly solve programming
+problems with the easy-to-learn, high-level programming language
+Python.

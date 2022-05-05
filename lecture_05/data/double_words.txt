@@ -1,0 +1,9 @@
+When typing longer texts, we often often make the mistake to
+repeat individual words such as here here.
+
+Here another test for words
+words that are double at the end and the beginning of the line.
+
+An another test
+
+test with an empty line between the occurance of a repeated word.
